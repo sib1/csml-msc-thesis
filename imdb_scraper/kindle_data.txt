@@ -1,0 +1,1 @@
+Download the kindle data from http://jmcauley.ucsd.edu/data/amazon/

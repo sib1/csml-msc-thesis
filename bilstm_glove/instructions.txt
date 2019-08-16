@@ -1,0 +1,6 @@
+Run the preprocess_sst_and_imdb.py file before running the sst or imdb classifiers.
+
+To use GloVe, download the 300 dimensional vector trained on 6 billion words from: https://nlp.stanford.edu/projects/glove/
+
+Then uncomment the GloVe code in the classifier scripts and change the embedding layer in the sequential keras model to use the GloVe matrix.
+
